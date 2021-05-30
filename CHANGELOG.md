@@ -4,6 +4,10 @@
 - Forked from https://github.com/gjaldon/ecto_enum
 - Includes support from @woylie for filtering using `__valid_values__()/1` for specific types (`:integer`, `:atom`, `:string`)
   - https://github.com/gjaldon/ecto_enum/pull/114
+- Includes support for accessing enum values as functions
+  - https://github.com/gjaldon/ecto_enum/pull/100
+- Update docs and support bang functions for `dump!/1` and `cast!/1`
+  - https://github.com/gjaldon/ecto_enum/pull/110
 
 ## 1.4.0
 - EctoEnum supports Ecto 3.0
