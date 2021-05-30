@@ -1,7 +1,8 @@
   # Changelog
 
 ## 1.5.0
-- Includes support from @woylie for filtering `__valid_values__()` for specific types (integer, atom, string)
+- Forked from https://github.com/gjaldon/ecto_enum
+- Includes support from @woylie for filtering using `__valid_values__()/1` for specific types (`:integer`, `:atom`, `:string`)
   - https://github.com/gjaldon/ecto_enum/pull/114
 
 ## 1.4.0
