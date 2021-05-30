@@ -8,6 +8,12 @@ EctoEnum
 
 EctoEnum is an Ecto extension to support enums in your Ecto models.
 
+## Notes
+
+This fork/repo includes the following PRs by other contributors.
+
+* https://github.com/gjaldon/ecto_enum/pull/114
+
 ## Usage
 
 First, we add `ecto_enum` to `mix.exs`:
